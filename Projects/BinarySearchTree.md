@@ -17,3 +17,4 @@ Dizinin aşamalarını yazınız.
 
 ```
 
+*Root 5 olarak belirlenmiştir.
